@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">smart vote</string>
+    <string name="count">Count Down To Election Day</string>
+    <string name="Days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="kkl">Minutes</string>
+    <string name="seo">Seconds</string>
+    <string name="next">Next</string>
+</resources>

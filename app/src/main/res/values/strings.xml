@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">smart vote</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+
+    <string name="count">นับถอยหลังวันเลือกตั้ง</string>
+    <string name="Days">วัน</string>
+    <string name="hours">ชั่วโมง</string>
+    <string name="kkl">นาที</string>
+    <string name="seo">วินาที</string>
+    <string name="next">ถัดไป</string>
+    <string name="nextt" translatable="false">ถัดไป</string>
+
+
+</resources>
